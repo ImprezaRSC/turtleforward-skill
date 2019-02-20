@@ -1,5 +1,5 @@
 ## Turtleforward
-This skill moves the turtlesim skill forward a small amount.
+This skill moves the turtlesim turtle forward a small amount.
 
 ## Description
 
